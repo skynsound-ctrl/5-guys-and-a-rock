@@ -409,7 +409,11 @@
       "9753",
       "HOU"
     ],
-    "reserve": null,
+    "reserve": [
+      "11638",
+      "8142",
+      "9753"
+    ],
     "roster_id": 4,
     "settings": {
       "division": 2,
