@@ -44,9 +44,9 @@
       "p_nick_8228": "Runs in Sweats",
       "p_nick_96": "Aaron Rodgers, MD",
       "p_nick_SF": "Nick Bosa's Killas",
-      "record": "W",
+      "record": "WL",
       "restrict_pn_scoring_starters_only": "on",
-      "streak": "1W"
+      "streak": "1L"
     },
     "owner_id": "725077532805783552",
     "player_map": null,
@@ -92,13 +92,13 @@
     "roster_id": 1,
     "settings": {
       "division": 1,
-      "fpts": 195,
-      "fpts_against": 164,
-      "fpts_against_decimal": 66,
-      "fpts_decimal": 92,
-      "losses": 0,
-      "ppts": 241,
-      "ppts_decimal": 22,
+      "fpts": 368,
+      "fpts_against": 342,
+      "fpts_against_decimal": 70,
+      "fpts_decimal": 48,
+      "losses": 1,
+      "ppts": 431,
+      "ppts_decimal": 8,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
@@ -165,8 +165,8 @@
       "p_nick_9226": "Aggie Great",
       "p_nick_9509": "Worst haircut in the league",
       "p_nick_LAR": "Aaron Donalds Schlong ",
-      "record": "L",
-      "streak": "1L"
+      "record": "LW",
+      "streak": "1W"
     },
     "owner_id": "725083899906060288",
     "player_map": null,
@@ -206,18 +206,18 @@
     "roster_id": 2,
     "settings": {
       "division": 1,
-      "fpts": 139,
-      "fpts_against": 208,
-      "fpts_against_decimal": 6,
-      "fpts_decimal": 22,
+      "fpts": 317,
+      "fpts_against": 380,
+      "fpts_against_decimal": 62,
+      "fpts_decimal": 26,
       "losses": 1,
-      "ppts": 195,
-      "ppts_decimal": 50,
+      "ppts": 425,
+      "ppts_decimal": 38,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 21,
       "waiver_position": 5,
-      "wins": 0
+      "wins": 1
     },
     "starters": [
       "11566",
@@ -245,8 +245,8 @@
     "keepers": null,
     "league_id": "1315781068661485568",
     "metadata": {
-      "record": "W",
-      "streak": "1W"
+      "record": "WW",
+      "streak": "2W"
     },
     "owner_id": "725087285632163840",
     "player_map": null,
@@ -289,18 +289,18 @@
     "roster_id": 3,
     "settings": {
       "division": 1,
-      "fpts": 208,
-      "fpts_against": 139,
-      "fpts_against_decimal": 22,
-      "fpts_decimal": 6,
+      "fpts": 413,
+      "fpts_against": 261,
+      "fpts_against_decimal": 12,
+      "fpts_decimal": 38,
       "losses": 0,
-      "ppts": 223,
-      "ppts_decimal": 46,
+      "ppts": 462,
+      "ppts_decimal": 18,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 2,
-      "wins": 1
+      "wins": 2
     },
     "starters": [
       "4984",
@@ -395,8 +395,8 @@
       "p_nick_954": "QB1",
       "p_nick_BAL": "Ray Lewis",
       "p_nick_DEN": "Frauds",
-      "record": "L",
-      "streak": "1L"
+      "record": "LW",
+      "streak": "1W"
     },
     "owner_id": "725155474982412288",
     "player_map": null,
@@ -436,23 +436,24 @@
     ],
     "reserve": [
       "11638",
+      "8142",
       "9753"
     ],
     "roster_id": 4,
     "settings": {
       "division": 2,
-      "fpts": 164,
-      "fpts_against": 195,
-      "fpts_against_decimal": 92,
-      "fpts_decimal": 66,
+      "fpts": 323,
+      "fpts_against": 316,
+      "fpts_against_decimal": 82,
+      "fpts_decimal": 52,
       "losses": 1,
-      "ppts": 218,
-      "ppts_decimal": 20,
+      "ppts": 404,
+      "ppts_decimal": 78,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 2,
       "waiver_position": 3,
-      "wins": 0
+      "wins": 1
     },
     "starters": [
       "7523",
@@ -462,10 +463,10 @@
       "6794",
       "8131",
       "10229",
-      "11632",
+      "9487",
       "12507",
       "11533",
-      "SF"
+      "KC"
     ],
     "taxi": [
       "11586",
@@ -490,8 +491,8 @@
       "p_nick_5844": "Boombust #2",
       "p_nick_5848": "Hollywood",
       "p_nick_6806": "Achilles",
-      "record": "W",
-      "streak": "1W"
+      "record": "WL",
+      "streak": "1L"
     },
     "owner_id": "1261539464430231552",
     "player_map": null,
@@ -537,13 +538,13 @@
     "roster_id": 5,
     "settings": {
       "division": 2,
-      "fpts": 192,
-      "fpts_against": 104,
-      "fpts_against_decimal": 52,
-      "fpts_decimal": 30,
-      "losses": 0,
-      "ppts": 226,
-      "ppts_decimal": 96,
+      "fpts": 314,
+      "fpts_against": 309,
+      "fpts_against_decimal": 84,
+      "fpts_decimal": 20,
+      "losses": 1,
+      "ppts": 400,
+      "ppts_decimal": 44,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -588,9 +589,9 @@
       "p_nick_8148": "Doper",
       "p_nick_9754": "Back",
       "p_nick_9758": "DAWG",
-      "record": "L",
+      "record": "LL",
       "restrict_pn_scoring_starters_only": "on",
-      "streak": "1L"
+      "streak": "2L"
     },
     "owner_id": "725242544333615104",
     "player_map": null,
@@ -637,13 +638,13 @@
     "roster_id": 6,
     "settings": {
       "division": 2,
-      "fpts": 104,
-      "fpts_against": 192,
-      "fpts_against_decimal": 30,
-      "fpts_decimal": 52,
-      "losses": 1,
-      "ppts": 189,
-      "ppts_decimal": 56,
+      "fpts": 225,
+      "fpts_against": 351,
+      "fpts_against_decimal": 16,
+      "fpts_decimal": 42,
+      "losses": 2,
+      "ppts": 352,
+      "ppts_decimal": 66,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
