@@ -102,7 +102,7 @@
     "full_name": "Chris Rodriguez Jr.",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795210851164,
+    "news_updated": 1795294257990,
     "position": "RB",
     "practice_participation": null,
     "team": "JAX"
@@ -165,7 +165,7 @@
     "full_name": "Andrei Iosivas",
     "injury_body_part": "Thumb",
     "injury_status": "IR",
-    "news_updated": 1795124404262,
+    "news_updated": 1795334104478,
     "position": "WR",
     "practice_participation": null,
     "team": "CIN"
@@ -263,8 +263,8 @@
   "10236": {
     "full_name": "Dalton Kincaid",
     "injury_body_part": "Thumb",
-    "injury_status": "Doubtful",
-    "news_updated": 1795200910927,
+    "injury_status": "Out",
+    "news_updated": 1795365607931,
     "position": "TE",
     "practice_participation": null,
     "team": "BUF"
@@ -685,9 +685,9 @@
   },
   "10871": {
     "full_name": "Luke Schoonmaker",
-    "injury_body_part": "Illness",
-    "injury_status": "Questionable",
-    "news_updated": 1795214450518,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795366206753,
     "position": "TE",
     "practice_participation": null,
     "team": "DAL"
@@ -849,7 +849,7 @@
     "full_name": "Jalen Carter",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1792182343174,
+    "news_updated": 1795365607372,
     "position": "DL",
     "practice_participation": null,
     "team": "PHI"
@@ -982,9 +982,9 @@
   },
   "10903": {
     "full_name": "Quan Martin",
-    "injury_body_part": "Shoulder",
-    "injury_status": "Questionable",
-    "news_updated": 1795136405840,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795307459637,
     "position": "DB",
     "practice_participation": null,
     "team": "WAS"
@@ -1065,7 +1065,7 @@
     "full_name": "Steve Avila",
     "injury_body_part": "Hamstring",
     "injury_status": "Out",
-    "news_updated": 1794622820445,
+    "news_updated": 1795309559836,
     "position": "C",
     "practice_participation": null,
     "team": "LAR"
@@ -1101,7 +1101,7 @@
     "full_name": "Kobie Turner",
     "injury_body_part": "Groin",
     "injury_status": "IR",
-    "news_updated": 1792625452181,
+    "news_updated": 1795307159634,
     "position": "DT",
     "practice_participation": null,
     "team": "LAR"
@@ -1144,9 +1144,9 @@
   },
   "10921": {
     "full_name": "Yaya Diaby",
-    "injury_body_part": "Knee - MCL",
-    "injury_status": "Questionable",
-    "news_updated": 1795219251086,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795368307052,
     "position": "DL",
     "practice_participation": null,
     "team": "TB"
@@ -1311,7 +1311,7 @@
     "news_updated": 1793949951349,
     "position": "LB",
     "practice_participation": null,
-    "team": "GB"
+    "team": null
   },
   "10939": {
     "full_name": "Jay Ward",
@@ -1325,17 +1325,17 @@
   "10940": {
     "full_name": "Nick Herbig",
     "injury_body_part": "Hip",
-    "injury_status": "Questionable",
-    "news_updated": 1795212950254,
+    "injury_status": "Out",
+    "news_updated": 1795287357368,
     "position": "LB",
     "practice_participation": null,
     "team": "PIT"
   },
   "10941": {
     "full_name": "Tyler Lacy",
-    "injury_body_part": "Shoulder",
-    "injury_status": "Questionable",
-    "news_updated": 1726417212901,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795367407004,
     "position": "DE",
     "practice_participation": null,
     "team": "DET"
@@ -1596,7 +1596,7 @@
     "full_name": "Owen Pappoe",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794733217583,
+    "news_updated": 1795301160406,
     "position": "LB",
     "practice_participation": null,
     "team": "DET"
@@ -1632,7 +1632,7 @@
     "full_name": "Nick Hampton",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1790217933179,
+    "news_updated": 1795301160466,
     "position": "LB",
     "practice_participation": null,
     "team": "CAR"
@@ -1666,8 +1666,8 @@
   },
   "10977": {
     "full_name": "Jordan McFadden",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1682799327176,
     "position": "OL",
     "practice_participation": null,
@@ -1812,7 +1812,7 @@
     "full_name": "KJ Henry",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1791330601846,
+    "news_updated": 1795291259232,
     "position": "DE",
     "practice_participation": null,
     "team": "PIT"
@@ -2386,8 +2386,8 @@
   },
   "11052": {
     "full_name": "Jaylon Jones",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1794447029642,
     "position": "DB",
     "practice_participation": null,
@@ -3360,7 +3360,7 @@
     "full_name": "Nick Whiteside",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794120316623,
+    "news_updated": 1795301160740,
     "position": "CB",
     "practice_participation": null,
     "team": "DET"
@@ -5068,8 +5068,8 @@
   },
   "11343": {
     "full_name": "Starling Thomas V",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1790209532436,
     "position": "CB",
     "practice_participation": null,
@@ -5131,8 +5131,8 @@
   },
   "11350": {
     "full_name": "Mohamoud Diabate",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1794419127900,
     "position": "LB",
     "practice_participation": null,
@@ -5385,7 +5385,7 @@
     "full_name": "Tyrell Shavers",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795025753658,
+    "news_updated": 1795367707077,
     "position": "WR",
     "practice_participation": null,
     "team": "BUF"
@@ -6652,8 +6652,8 @@
   },
   "11512": {
     "full_name": "Tyrus Wheat",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1794894042769,
     "position": "DE",
     "practice_participation": null,
@@ -6843,7 +6843,7 @@
     "full_name": "Brandon Aubrey",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794884140783,
+    "news_updated": 1795291257730,
     "position": "K",
     "practice_participation": null,
     "team": "DAL"
@@ -7113,7 +7113,7 @@
     "full_name": "Bo Nix",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794938745422,
+    "news_updated": 1795307459367,
     "position": "QB",
     "practice_participation": null,
     "team": "DEN"
@@ -7122,7 +7122,7 @@
     "full_name": "Drake Maye",
     "injury_body_part": "Ankle",
     "injury_status": "Out",
-    "news_updated": 1795203009678,
+    "news_updated": 1795364108084,
     "position": "QB",
     "practice_participation": null,
     "team": "NE"
@@ -7131,7 +7131,7 @@
     "full_name": "J.J. McCarthy",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794848737269,
+    "news_updated": 1795289757582,
     "position": "QB",
     "practice_participation": null,
     "team": "NYG"
@@ -7228,18 +7228,18 @@
   },
   "11577": {
     "full_name": "Will Shipley",
-    "injury_body_part": "Foot",
-    "injury_status": "IR",
-    "news_updated": 1795227651145,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795365906661,
     "position": "RB",
     "practice_participation": null,
     "team": "PHI"
   },
   "11579": {
     "full_name": "Audric Estime",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1794969348146,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
+    "news_updated": 1795366208005,
     "position": "RB",
     "practice_participation": null,
     "team": "NO"
@@ -7275,7 +7275,7 @@
     "full_name": "Jonathon Brooks",
     "injury_body_part": "Abdomen",
     "injury_status": "IR",
-    "news_updated": 1795238752220,
+    "news_updated": 1795298158583,
     "position": "RB",
     "practice_participation": null,
     "team": "CAR"
@@ -7347,7 +7347,7 @@
     "full_name": "Brevyn Spann-Ford",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795060256507,
+    "news_updated": 1795289457409,
     "position": "TE",
     "practice_participation": null,
     "team": "DAL"
@@ -7408,8 +7408,8 @@
   },
   "11600": {
     "full_name": "Ja'Tavion Sanders",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1794763229212,
     "position": "TE",
     "practice_participation": null,
@@ -7437,7 +7437,7 @@
     "full_name": "Brock Bowers",
     "injury_body_part": "Ankle",
     "injury_status": "Questionable",
-    "news_updated": 1795222850787,
+    "news_updated": 1795363208443,
     "position": "TE",
     "practice_participation": null,
     "team": "LV"
@@ -7572,7 +7572,7 @@
     "full_name": "Adonai Mitchell",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795276856228,
+    "news_updated": 1795357205333,
     "position": "WR",
     "practice_participation": null,
     "team": "NYJ"
@@ -7615,9 +7615,9 @@
   },
   "11630": {
     "full_name": "Roman Wilson",
-    "injury_body_part": "Finger",
-    "injury_status": "IR",
-    "news_updated": 1795272655775,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795366806886,
     "position": "WR",
     "practice_participation": null,
     "team": "PIT"
@@ -7635,7 +7635,7 @@
     "full_name": "Malik Nabers",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795193109317,
+    "news_updated": 1795290057627,
     "position": "WR",
     "practice_participation": null,
     "team": "NYG"
@@ -7653,7 +7653,7 @@
     "full_name": "Ladd McConkey",
     "injury_body_part": "Back",
     "injury_status": "Questionable",
-    "news_updated": 1795215351541,
+    "news_updated": 1795351506163,
     "position": "WR",
     "practice_participation": null,
     "team": "LAC"
@@ -7716,7 +7716,7 @@
     "full_name": "Cody Schrader",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794283245358,
+    "news_updated": 1795323901407,
     "position": "RB",
     "practice_participation": null,
     "team": "DEN"
@@ -7734,7 +7734,7 @@
     "full_name": "Jalen Coker",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795238752227,
+    "news_updated": 1795359605689,
     "position": "WR",
     "practice_participation": null,
     "team": "CAR"
@@ -7743,16 +7743,16 @@
     "full_name": "Kimani Vidal",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794980748955,
+    "news_updated": 1795282256720,
     "position": "RB",
     "practice_participation": null,
     "team": "LAC"
   },
   "11648": {
     "full_name": "Kedon Slovis",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1794874539868,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
+    "news_updated": 1795365607368,
     "position": "QB",
     "practice_participation": null,
     "team": "BAL"
@@ -7797,7 +7797,7 @@
     "full_name": "Charlie Smyth",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795280156959,
+    "news_updated": 1795292157657,
     "position": "K",
     "practice_participation": null,
     "team": "NO"
@@ -8129,7 +8129,7 @@
   "11689": {
     "full_name": "Ennis Rakestraw Jr.",
     "injury_body_part": "Shoulder",
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "news_updated": 1793412917368,
     "position": "DB",
     "practice_participation": null,
@@ -8281,8 +8281,8 @@
   },
   "11704": {
     "full_name": "Christian Haynes",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1784218860102,
     "position": "OL",
     "practice_participation": null,
@@ -8344,8 +8344,8 @@
   },
   "11711": {
     "full_name": "Caedan Wallace",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1786413632933,
     "position": "OL",
     "practice_participation": null,
@@ -8436,7 +8436,7 @@
     "full_name": "Bralen Trice",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794894342732,
+    "news_updated": 1795335004529,
     "position": "DE",
     "practice_participation": null,
     "team": "DAL"
@@ -8506,9 +8506,9 @@
   },
   "11729": {
     "full_name": "Sione Vaki",
-    "injury_body_part": "Ankle",
-    "injury_status": "Questionable",
-    "news_updated": 1795275056144,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795366807824,
     "position": "RB",
     "practice_participation": null,
     "team": "DET"
@@ -8587,8 +8587,8 @@
   },
   "11738": {
     "full_name": "Decamerion Richardson",
-    "injury_body_part": "Thigh",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "news_updated": 1792041912943,
     "position": "CB",
     "practice_participation": null,
@@ -8929,8 +8929,8 @@
   },
   "11774": {
     "full_name": "Trevor Keegan",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1785988243738,
     "position": "OL",
     "practice_participation": null,
@@ -8939,7 +8939,7 @@
   "11775": {
     "full_name": "Jaylin Simpson",
     "injury_body_part": "Knee",
-    "injury_status": "Doubtful",
+    "injury_status": "Out",
     "news_updated": 1795224651348,
     "position": "DB",
     "practice_participation": null,
@@ -9012,7 +9012,7 @@
     "full_name": "Ryan Flournoy",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795189508467,
+    "news_updated": 1795288257507,
     "position": "WR",
     "practice_participation": null,
     "team": "DAL"
@@ -9039,7 +9039,7 @@
     "full_name": "Cam Little",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794883240652,
+    "news_updated": 1795281056660,
     "position": "K",
     "practice_participation": null,
     "team": "JAX"
@@ -9199,8 +9199,8 @@
   },
   "11804": {
     "full_name": "Mekhi Wingo",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1789174816429,
     "position": "DT",
     "practice_participation": null,
@@ -9244,8 +9244,8 @@
   },
   "11809": {
     "full_name": "Marcellas Dial Jr.",
-    "injury_body_part": "Toe",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "news_updated": 1788215113851,
     "position": "DB",
     "practice_participation": null,
@@ -9498,7 +9498,7 @@
     "full_name": "Jaylen Harrell",
     "injury_body_part": "Knee - ACL",
     "injury_status": "IR",
-    "news_updated": 1786946721985,
+    "news_updated": 1795357805467,
     "position": "DE",
     "practice_participation": null,
     "team": "TEN"
@@ -10191,7 +10191,7 @@
     "full_name": "Jeshaun Jones",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795213850256,
+    "news_updated": 1795334703813,
     "position": "WR",
     "practice_participation": null,
     "team": "MIN"
@@ -10362,7 +10362,7 @@
     "full_name": "Bo Richter",
     "injury_body_part": "Foot",
     "injury_status": "IR",
-    "news_updated": 1795053656520,
+    "news_updated": 1795334703828,
     "position": "DE",
     "practice_participation": null,
     "team": "MIN"
@@ -11082,7 +11082,7 @@
     "full_name": "Jack Browning",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1784787310475,
+    "news_updated": 1795291259245,
     "position": "K/P",
     "practice_participation": null,
     "team": "MIA"
@@ -12360,7 +12360,7 @@
     "full_name": "Justin Dedich",
     "injury_body_part": "Undisclosed",
     "injury_status": "IR",
-    "news_updated": 1788219915591,
+    "news_updated": 1795307459620,
     "position": "OL",
     "practice_participation": null,
     "team": "LAR"
@@ -14626,8 +14626,8 @@
   },
   "12384": {
     "full_name": "Kingsley Eguakun",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1786919417429,
     "position": "OL",
     "practice_participation": null,
@@ -15447,7 +15447,7 @@
     "full_name": "Cam Skattebo",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795124104323,
+    "news_updated": 1795315860299,
     "position": "RB",
     "practice_participation": null,
     "team": "NYG"
@@ -15528,7 +15528,7 @@
     "full_name": "Bhayshul Tuten",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795277756417,
+    "news_updated": 1795366206640,
     "position": "RB",
     "practice_participation": null,
     "team": "JAX"
@@ -15546,7 +15546,7 @@
     "full_name": "Pat Bryant",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795190708621,
+    "news_updated": 1795318800832,
     "position": "WR",
     "practice_participation": null,
     "team": "DEN"
@@ -15555,7 +15555,7 @@
     "full_name": "Oronde Gadsden",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794961847481,
+    "news_updated": 1795282856893,
     "position": "TE",
     "practice_participation": null,
     "team": "LAC"
@@ -15609,7 +15609,7 @@
     "full_name": "Elic Ayomanor",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794843936789,
+    "news_updated": 1795359305610,
     "position": "WR",
     "practice_participation": null,
     "team": "TEN"
@@ -15645,7 +15645,7 @@
     "full_name": "Gunnar Helm",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794887740635,
+    "news_updated": 1795293057964,
     "position": "TE",
     "practice_participation": null,
     "team": "TEN"
@@ -15690,7 +15690,7 @@
     "full_name": "Omarion Hampton",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795216250524,
+    "news_updated": 1795281956762,
     "position": "RB",
     "practice_participation": null,
     "team": "LAC"
@@ -15708,7 +15708,7 @@
     "full_name": "Tre' Harris",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794920145084,
+    "news_updated": 1795282556845,
     "position": "WR",
     "practice_participation": null,
     "team": "LAC"
@@ -15724,9 +15724,9 @@
   },
   "12511": {
     "full_name": "Will Howard",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1794788431958,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
+    "news_updated": 1795366507756,
     "position": "QB",
     "practice_participation": null,
     "team": "PIT"
@@ -15816,7 +15816,7 @@
     "full_name": "Cam Ward",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794933044834,
+    "news_updated": 1795329002120,
     "position": "QB",
     "practice_participation": null,
     "team": "TEN"
@@ -15906,7 +15906,7 @@
     "full_name": "Jacory Croskey-Merritt",
     "injury_body_part": "Groin",
     "injury_status": "IR",
-    "news_updated": 1795228251284,
+    "news_updated": 1795334104199,
     "position": "RB",
     "practice_participation": null,
     "team": "WAS"
@@ -15978,7 +15978,7 @@
     "full_name": "Chimere Dike",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794892841668,
+    "news_updated": 1795293358322,
     "position": "WR",
     "practice_participation": null,
     "team": "TEN"
@@ -16652,8 +16652,8 @@
   "12612": {
     "full_name": "T.J. Sanders",
     "injury_body_part": "Shoulder",
-    "injury_status": "Questionable",
-    "news_updated": 1791506147360,
+    "injury_status": "Out",
+    "news_updated": 1795367407002,
     "position": "DL",
     "practice_participation": null,
     "team": "BUF"
@@ -16679,8 +16679,8 @@
   "12615": {
     "full_name": "Omarr Norman-Lott",
     "injury_body_part": "Knee - ACL",
-    "injury_status": "Questionable",
-    "news_updated": 1795223451142,
+    "injury_status": "Out",
+    "news_updated": 1795368007139,
     "position": "DT",
     "practice_participation": null,
     "team": "KC"
@@ -16813,8 +16813,8 @@
   },
   "12629": {
     "full_name": "Emery Jones Jr.",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1781619623691,
     "position": "OL",
     "practice_participation": null,
@@ -17002,9 +17002,9 @@
   },
   "12649": {
     "full_name": "C.J. West",
-    "injury_body_part": "Undisclosed",
-    "injury_status": "IR",
-    "news_updated": 1795222851356,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795307159635,
     "position": "DT",
     "practice_participation": null,
     "team": "SF"
@@ -17083,9 +17083,9 @@
   },
   "12658": {
     "full_name": "Jackson Hawes",
-    "injury_body_part": "Shoulder",
-    "injury_status": "Questionable",
-    "news_updated": 1795213250270,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795366807354,
     "position": "TE",
     "practice_participation": null,
     "team": "BUF"
@@ -17174,8 +17174,8 @@
   "12667": {
     "full_name": "Smael Mondon Jr.",
     "injury_body_part": "Ankle",
-    "injury_status": "Doubtful",
-    "news_updated": 1753828826082,
+    "injury_status": "Out",
+    "news_updated": 1795365906651,
     "position": "LB",
     "practice_participation": null,
     "team": "PHI"
@@ -17237,8 +17237,8 @@
   "12673": {
     "full_name": "Dante Trader Jr.",
     "injury_body_part": "Shoulder",
-    "injury_status": "Doubtful",
-    "news_updated": 1795202109522,
+    "injury_status": "Out",
+    "news_updated": 1795367406976,
     "position": "DB",
     "practice_participation": null,
     "team": "MIA"
@@ -17281,8 +17281,8 @@
   },
   "12678": {
     "full_name": "Mac McWilliams",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1754674243678,
     "position": "CB",
     "practice_participation": null,
@@ -17470,8 +17470,8 @@
   },
   "12698": {
     "full_name": "Ajani Cornelius",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1786928718522,
     "position": "OL",
     "practice_participation": null,
@@ -17785,8 +17785,8 @@
   },
   "12730": {
     "full_name": "Micah Robinson",
-    "injury_body_part": "Hip",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "news_updated": 1789921255918,
     "position": "CB",
     "practice_participation": null,
@@ -17859,7 +17859,7 @@
     "full_name": "Phil Mafah",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794286245446,
+    "news_updated": 1795307759629,
     "position": "RB",
     "practice_participation": null,
     "team": "NYG"
@@ -18370,8 +18370,8 @@
   },
   "12795": {
     "full_name": "Jake Majors",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1757461533478,
     "position": "OL",
     "practice_participation": null,
@@ -18424,8 +18424,8 @@
   },
   "12801": {
     "full_name": "TeRah Edwards",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1788135659706,
     "position": "DL",
     "practice_participation": null,
@@ -19317,7 +19317,7 @@
     "full_name": "Nate Carter",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794880540341,
+    "news_updated": 1795307759615,
     "position": "RB",
     "practice_participation": null,
     "team": "KC"
@@ -19352,8 +19352,8 @@
   "12900": {
     "full_name": "Danny Striggow",
     "injury_body_part": "Concussion",
-    "injury_status": "Questionable",
-    "news_updated": 1795224351597,
+    "injury_status": "Out",
+    "news_updated": 1795308659805,
     "position": "DL",
     "practice_participation": null,
     "team": "JAX"
@@ -19551,7 +19551,7 @@
     "full_name": "Ja'Markis Weston",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1793056812008,
+    "news_updated": 1795301160480,
     "position": "DE",
     "practice_participation": null,
     "team": "CAR"
@@ -21385,8 +21385,8 @@
   },
   "13118": {
     "full_name": "Melvin Smith Jr.",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1793479827058,
     "position": "DB",
     "practice_participation": null,
@@ -21432,7 +21432,7 @@
     "full_name": "Carter Runyon",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794881740653,
+    "news_updated": 1795306859685,
     "position": "TE",
     "practice_participation": null,
     "team": "LV"
@@ -22134,7 +22134,7 @@
     "full_name": "Max Hurleman",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795047355723,
+    "news_updated": 1795306259466,
     "position": "WR",
     "practice_participation": null,
     "team": "PIT"
@@ -22744,9 +22744,9 @@
   },
   "13268": {
     "full_name": "Elijah Sarratt",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1792942807115,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
+    "news_updated": 1795365906677,
     "position": "WR",
     "practice_participation": null,
     "team": "BAL"
@@ -22781,8 +22781,8 @@
   "13272": {
     "full_name": "Carson Beck",
     "injury_body_part": "Back",
-    "injury_status": "Questionable",
-    "news_updated": 1795218950535,
+    "injury_status": "Out",
+    "news_updated": 1795293057963,
     "position": "QB",
     "practice_participation": null,
     "team": "ARI"
@@ -22843,9 +22843,9 @@
   },
   "13279": {
     "full_name": "Carnell Tate",
-    "injury_body_part": "Shoulder",
-    "injury_status": "Questionable",
-    "news_updated": 1795279556747,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795366506733,
     "position": "WR",
     "practice_participation": null,
     "team": "TEN"
@@ -22863,7 +22863,7 @@
     "full_name": "Jordyn Tyson",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795218050390,
+    "news_updated": 1795358105461,
     "position": "WR",
     "practice_participation": null,
     "team": "NO"
@@ -22890,7 +22890,7 @@
     "full_name": "Malachi Fields",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794888640611,
+    "news_updated": 1795325101466,
     "position": "WR",
     "practice_participation": null,
     "team": "NYG"
@@ -22915,17 +22915,17 @@
   },
   "13288": {
     "full_name": "Nicholas Singleton",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1794761128913,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
+    "news_updated": 1795366807325,
     "position": "RB",
     "practice_participation": null,
     "team": "TEN"
   },
   "13289": {
     "full_name": "Drew Allar",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1792339256406,
     "position": "QB",
     "practice_participation": null,
@@ -22980,7 +22980,7 @@
     "full_name": "Makai Lemon",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795221950811,
+    "news_updated": 1795328101980,
     "position": "WR",
     "practice_participation": null,
     "team": "PHI"
@@ -22998,7 +22998,7 @@
     "full_name": "Caleb Douglas",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795277756416,
+    "news_updated": 1795361407099,
     "position": "WR",
     "practice_participation": null,
     "team": "MIA"
@@ -23043,16 +23043,16 @@
     "full_name": "Antonio Williams",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795189808596,
+    "news_updated": 1795327201760,
     "position": "WR",
     "practice_participation": null,
     "team": "WAS"
   },
   "13302": {
     "full_name": "Adam Randall",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1795029653943,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
+    "news_updated": 1795365906635,
     "position": "RB",
     "practice_participation": null,
     "team": "BAL"
@@ -23347,9 +23347,9 @@
   },
   "13335": {
     "full_name": "Cole Payton",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1793055911735,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
+    "news_updated": 1795365906623,
     "position": "QB",
     "practice_participation": null,
     "team": "PHI"
@@ -23448,7 +23448,7 @@
     "full_name": "Jonah Coleman",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794937845302,
+    "news_updated": 1795317600629,
     "position": "RB",
     "practice_participation": null,
     "team": "DEN"
@@ -23626,9 +23626,9 @@
   },
   "13365": {
     "full_name": "Anthony Hill Jr.",
-    "injury_body_part": "Neck",
-    "injury_status": "Questionable",
-    "news_updated": 1795215350519,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795366206779,
     "position": "LB",
     "practice_participation": null,
     "team": "TEN"
@@ -23664,7 +23664,7 @@
     "full_name": "Brandon Cisse",
     "injury_body_part": "Ribs",
     "injury_status": "Questionable",
-    "news_updated": 1794900343287,
+    "news_updated": 1795308059839,
     "position": "DB",
     "practice_participation": null,
     "team": "GB"
@@ -23789,8 +23789,8 @@
   "13381": {
     "full_name": "Jaishawn Barham",
     "injury_body_part": "Hip",
-    "injury_status": "Questionable",
-    "news_updated": 1787013338077,
+    "injury_status": "Out",
+    "news_updated": 1795368007107,
     "position": "LB",
     "practice_participation": null,
     "team": "DAL"
@@ -23879,8 +23879,8 @@
   "13390": {
     "full_name": "Peter Woods",
     "injury_body_part": "Neck",
-    "injury_status": "Questionable",
-    "news_updated": 1795054256372,
+    "injury_status": "Out",
+    "news_updated": 1795368007092,
     "position": "DL",
     "practice_participation": null,
     "team": "KC"
@@ -23941,8 +23941,8 @@
   },
   "13397": {
     "full_name": "Keith Abney II",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1777143026800,
     "position": "DB",
     "practice_participation": null,
@@ -23977,8 +23977,8 @@
   },
   "13400": {
     "full_name": "Justin Joly",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1792629052483,
     "position": "TE",
     "practice_participation": null,
@@ -23995,9 +23995,9 @@
   },
   "13402": {
     "full_name": "Skyler Bell",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1792217140240,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
+    "news_updated": 1795366807324,
     "position": "WR",
     "practice_participation": null,
     "team": "BUF"
@@ -24013,9 +24013,9 @@
   },
   "13404": {
     "full_name": "Garrett Nussmeier",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1794762029003,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
+    "news_updated": 1795366507752,
     "position": "QB",
     "practice_participation": null,
     "team": "KC"
@@ -24076,9 +24076,9 @@
   },
   "13411": {
     "full_name": "Zavion Thomas",
-    "injury_body_part": "Ankle",
-    "injury_status": "Questionable",
-    "news_updated": 1795207860441,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795366206795,
     "position": "WR",
     "practice_participation": null,
     "team": "CHI"
@@ -24112,9 +24112,9 @@
   },
   "13415": {
     "full_name": "Haynes King",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1794763829454,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
+    "news_updated": 1795367406988,
     "position": "QB",
     "practice_participation": null,
     "team": "CAR"
@@ -24184,8 +24184,8 @@
   },
   "13423": {
     "full_name": "Eli Heidenreich",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1792339556440,
     "position": "RB",
     "practice_participation": null,
@@ -24204,7 +24204,7 @@
     "full_name": "Jalon Daniels",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795218350727,
+    "news_updated": 1795367106887,
     "position": "QB",
     "practice_participation": null,
     "team": "TB"
@@ -24832,9 +24832,9 @@
   },
   "13491": {
     "full_name": "Kaden Wetjen",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1787899857819,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
+    "news_updated": 1795368307041,
     "position": "WR",
     "practice_participation": null,
     "team": "PIT"
@@ -24879,7 +24879,7 @@
     "full_name": "Devin Moore",
     "injury_body_part": "Undisclosed",
     "injury_status": "IR",
-    "news_updated": 1794435328315,
+    "news_updated": 1795335304023,
     "position": "CB",
     "practice_participation": null,
     "team": "DAL"
@@ -24958,8 +24958,8 @@
   },
   "13505": {
     "full_name": "Jude Bowry",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1789088430553,
     "position": "OT",
     "practice_participation": null,
@@ -25021,8 +25021,8 @@
   },
   "13512": {
     "full_name": "Keyshaun Elliott",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1792457733434,
     "position": "LB",
     "practice_participation": null,
@@ -25048,8 +25048,8 @@
   },
   "13515": {
     "full_name": "Billy Schrauth",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1788307225768,
     "position": "G",
     "practice_participation": null,
@@ -25084,8 +25084,8 @@
   },
   "13519": {
     "full_name": "DeMonte Capehart",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1777148122966,
     "position": "DT",
     "practice_participation": null,
@@ -25174,8 +25174,8 @@
   },
   "13528": {
     "full_name": "Sam Hecht",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1777148122932,
     "position": "C",
     "practice_participation": null,
@@ -25354,8 +25354,8 @@
   },
   "13548": {
     "full_name": "Gabriel Rubio",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1789316454102,
     "position": "DL",
     "practice_participation": null,
@@ -25363,8 +25363,8 @@
   },
   "13549": {
     "full_name": "Jackie Marshall",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1777596028102,
     "position": "DE",
     "practice_participation": null,
@@ -25527,7 +25527,7 @@
     "full_name": "Max Llewellyn",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1793479226522,
+    "news_updated": 1795334703780,
     "position": "DE",
     "practice_participation": null,
     "team": "MIA"
@@ -26138,8 +26138,8 @@
   "13633": {
     "full_name": "Rodney Shelley",
     "injury_body_part": "Ankle",
-    "injury_status": "Out",
-    "news_updated": 1795224951361,
+    "injury_status": "IR",
+    "news_updated": 1795308959727,
     "position": "CB",
     "practice_participation": null,
     "team": "LAC"
@@ -26875,8 +26875,8 @@
   },
   "13711": {
     "full_name": "Jayden Loving",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": null,
     "position": "DT",
     "practice_participation": null,
@@ -28047,7 +28047,7 @@
     "full_name": "Dominic Zvada",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794619819792,
+    "news_updated": 1795291557752,
     "position": "K",
     "practice_participation": null,
     "team": "NYG"
@@ -29224,8 +29224,8 @@
   },
   "13959": {
     "full_name": "Ayden Garnes",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1792082713156,
     "position": "DB",
     "practice_participation": null,
@@ -31591,9 +31591,9 @@
   },
   "1737": {
     "full_name": "Case Keenum",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1794182722861,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
+    "news_updated": 1795366807340,
     "position": "QB",
     "practice_participation": null,
     "team": "CHI"
@@ -33060,7 +33060,7 @@
     "full_name": "Davante Adams",
     "injury_body_part": "Hamstring",
     "injury_status": "IR",
-    "news_updated": 1795216850501,
+    "news_updated": 1795358705516,
     "position": "WR",
     "practice_participation": null,
     "team": "LAR"
@@ -33285,10 +33285,10 @@
     "full_name": "Brandin Cooks",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794774930187,
+    "news_updated": 1795304759139,
     "position": "WR",
     "practice_participation": null,
-    "team": "SF"
+    "team": null
   },
   "2199": {
     "full_name": "Kasim Edebali",
@@ -33339,7 +33339,7 @@
     "full_name": "Mike Evans",
     "injury_body_part": "Achilles",
     "injury_status": "Questionable",
-    "news_updated": 1795255554212,
+    "news_updated": 1795349704916,
     "position": "WR",
     "practice_participation": null,
     "team": "SF"
@@ -33843,7 +33843,7 @@
     "full_name": "Shaq Thompson",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1770142538463,
+    "news_updated": 1795297259867,
     "position": "LB",
     "practice_participation": null,
     "team": "BUF"
@@ -34867,9 +34867,9 @@
   },
   "2505": {
     "full_name": "Darren Waller",
-    "injury_body_part": "Knee",
-    "injury_status": "Questionable",
-    "news_updated": 1795226151101,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795367406846,
     "position": "TE",
     "practice_participation": null,
     "team": "CAR"
@@ -35319,7 +35319,7 @@
     "full_name": "Josh Johnson",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795256454058,
+    "news_updated": 1795360506093,
     "position": "QB",
     "practice_participation": null,
     "team": "ARI"
@@ -37884,7 +37884,7 @@
     "full_name": "Sterling Shepard",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1791250539901,
+    "news_updated": 1795291259220,
     "position": "WR",
     "practice_participation": null,
     "team": "NYJ"
@@ -37927,8 +37927,8 @@
   },
   "3207": {
     "full_name": "Andrew Billings",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1790215232649,
     "position": "DT",
     "practice_participation": null,
@@ -38188,8 +38188,8 @@
   },
   "3241": {
     "full_name": "Jonathan Bullard",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1794775230945,
     "position": "DE",
     "practice_participation": null,
@@ -38325,7 +38325,7 @@
     "full_name": "Nick Vannett",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794966647969,
+    "news_updated": 1795306559432,
     "position": "TE",
     "practice_participation": null,
     "team": "BAL"
@@ -38568,7 +38568,7 @@
     "full_name": "Dak Prescott",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795068357401,
+    "news_updated": 1795287957353,
     "position": "QB",
     "practice_participation": null,
     "team": "DAL"
@@ -42085,9 +42085,9 @@
   },
   "3888": {
     "full_name": "Lucas Patrick",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1795141205171,
+    "injury_body_part": "Concussion",
+    "injury_status": "Questionable",
+    "news_updated": 1795309260245,
     "position": "G",
     "practice_participation": null,
     "team": "WAS"
@@ -42735,7 +42735,7 @@
     "full_name": "Evan Engram",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794332450057,
+    "news_updated": 1795320600851,
     "position": "TE",
     "practice_participation": null,
     "team": "DEN"
@@ -42789,7 +42789,7 @@
     "full_name": "Tre'Davious White",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1792453532793,
+    "news_updated": 1795297259850,
     "position": "CB",
     "practice_participation": null,
     "team": "BUF"
@@ -42861,7 +42861,7 @@
     "full_name": "Zay Jones",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794878740187,
+    "news_updated": 1795306859712,
     "position": "WR",
     "practice_participation": null,
     "team": "ARI"
@@ -43428,7 +43428,7 @@
     "full_name": "Samaje Perine",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794876940273,
+    "news_updated": 1795324801529,
     "position": "RB",
     "practice_participation": null,
     "team": "CIN"
@@ -48907,9 +48907,9 @@
   },
   "4892": {
     "full_name": "Baker Mayfield",
-    "injury_body_part": "Lower Leg",
-    "injury_status": "Questionable",
-    "news_updated": 1795279557982,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795366806882,
     "position": "QB",
     "practice_participation": null,
     "team": "TB"
@@ -49764,7 +49764,7 @@
     "full_name": "Mike Gesicki",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794860438182,
+    "news_updated": 1795328101978,
     "position": "TE",
     "practice_participation": null,
     "team": "CIN"
@@ -49971,7 +49971,7 @@
     "full_name": "Jessie Bates III",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794587130700,
+    "news_updated": 1795356906074,
     "position": "DB",
     "practice_participation": null,
     "team": "JAX"
@@ -50105,8 +50105,8 @@
   "5031": {
     "full_name": "Oren Burks",
     "injury_body_part": "Groin",
-    "injury_status": "Questionable",
-    "news_updated": 1795136704300,
+    "injury_status": "IR",
+    "news_updated": 1795291259286,
     "position": "LB",
     "practice_participation": null,
     "team": "CIN"
@@ -50232,7 +50232,7 @@
     "full_name": "Courtland Sutton",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794942645644,
+    "news_updated": 1795319701407,
     "position": "WR",
     "practice_participation": null,
     "team": "DEN"
@@ -50455,9 +50455,9 @@
   },
   "5071": {
     "full_name": "DeShon Elliott",
-    "injury_body_part": "Knee",
-    "injury_status": "Questionable",
-    "news_updated": 1795212950255,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795366807353,
     "position": "DB",
     "practice_participation": null,
     "team": "PIT"
@@ -50673,7 +50673,7 @@
     "full_name": "Daniel Carlson",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794961548742,
+    "news_updated": 1795291259259,
     "position": "K",
     "practice_participation": null,
     "team": "MIA"
@@ -52689,7 +52689,7 @@
     "full_name": "Zaire Franklin",
     "injury_body_part": "Shin",
     "injury_status": "Out",
-    "news_updated": 1794762329043,
+    "news_updated": 1795308059840,
     "position": "LB",
     "practice_participation": null,
     "team": "GB"
@@ -52895,8 +52895,8 @@
   "5372": {
     "full_name": "D.J. Reed",
     "injury_body_part": "Hip",
-    "injury_status": "Questionable",
-    "news_updated": 1795214750432,
+    "injury_status": "Out",
+    "news_updated": 1795367406985,
     "position": "CB",
     "practice_participation": null,
     "team": "DET"
@@ -56856,7 +56856,7 @@
     "full_name": "Ed Oliver",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1793388315638,
+    "news_updated": 1795367406973,
     "position": "DT",
     "practice_participation": null,
     "team": "BUF"
@@ -56928,7 +56928,7 @@
     "full_name": "Josh Jacobs",
     "injury_body_part": "Finger",
     "injury_status": "Out",
-    "news_updated": 1794930044815,
+    "news_updated": 1795367706736,
     "position": "RB",
     "practice_participation": null,
     "team": "GB"
@@ -57080,8 +57080,8 @@
   "5867": {
     "full_name": "Dalton Risner",
     "injury_body_part": "Knee",
-    "injury_status": "Questionable",
-    "news_updated": 1795141205171,
+    "injury_status": "Out",
+    "news_updated": 1795308359858,
     "position": "G",
     "practice_participation": null,
     "team": "CIN"
@@ -57117,7 +57117,7 @@
     "full_name": "Daniel Jones",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795199409203,
+    "news_updated": 1795364108071,
     "position": "QB",
     "practice_participation": null,
     "team": null
@@ -57135,7 +57135,7 @@
     "full_name": "Deebo Samuel Sr.",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795255854102,
+    "news_updated": 1795358405648,
     "position": "WR",
     "practice_participation": null,
     "team": "SF"
@@ -57225,7 +57225,7 @@
     "full_name": "Taylor Rapp",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794119716744,
+    "news_updated": 1795309260180,
     "position": "DB",
     "practice_participation": null,
     "team": "DEN"
@@ -58017,7 +58017,7 @@
     "full_name": "Tony Pollard",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795210851138,
+    "news_updated": 1795291557785,
     "position": "RB",
     "practice_participation": null,
     "team": "TEN"
@@ -58555,9 +58555,9 @@
   },
   "6025": {
     "full_name": "Mike Jackson",
-    "injury_body_part": "Groin",
-    "injury_status": "IR",
-    "news_updated": 1795203609596,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795306859712,
     "position": "CB",
     "practice_participation": null,
     "team": "CAR"
@@ -58861,8 +58861,8 @@
   },
   "6060": {
     "full_name": "Sean Murphy-Bunting",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1791246339532,
     "position": "CB",
     "practice_participation": null,
@@ -59466,7 +59466,7 @@
     "full_name": "Devin Singletary",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795106401150,
+    "news_updated": 1795326002044,
     "position": "RB",
     "practice_participation": null,
     "team": "NYG"
@@ -59950,9 +59950,9 @@
   },
   "6185": {
     "full_name": "Easton Stick",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1794864938646,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
+    "news_updated": 1795368007107,
     "position": "QB",
     "practice_participation": null,
     "team": "TB"
@@ -60158,8 +60158,8 @@
   "6213": {
     "full_name": "Trey Pipkins III",
     "injury_body_part": "Knee",
-    "injury_status": "IR",
-    "news_updated": 1794873039559,
+    "injury_status": "Questionable",
+    "news_updated": 1795308359871,
     "position": "T",
     "practice_participation": null,
     "team": "LAC"
@@ -62787,7 +62787,7 @@
     "full_name": "Joey Slye",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794883541142,
+    "news_updated": 1795294257992,
     "position": "K",
     "practice_participation": null,
     "team": "TEN"
@@ -64371,7 +64371,7 @@
     "full_name": "Jalen Thompson",
     "injury_body_part": "Hamstring",
     "injury_status": "IR",
-    "news_updated": 1795214750449,
+    "news_updated": 1795335304015,
     "position": "DB",
     "practice_participation": null,
     "team": "DAL"
@@ -64794,7 +64794,7 @@
     "full_name": "Joe Burrow",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795210549771,
+    "news_updated": 1795315860300,
     "position": "QB",
     "practice_participation": null,
     "team": "CIN"
@@ -64883,8 +64883,8 @@
   "6781": {
     "full_name": "Isaiah Simmons",
     "injury_body_part": "Knee",
-    "injury_status": "Out",
-    "news_updated": 1795222851381,
+    "injury_status": "IR",
+    "news_updated": 1795309260203,
     "position": "DB",
     "practice_participation": null,
     "team": "CAR"
@@ -64929,7 +64929,7 @@
     "full_name": "CeeDee Lamb",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794801933260,
+    "news_updated": 1795287057144,
     "position": "WR",
     "practice_participation": null,
     "team": "DAL"
@@ -65028,7 +65028,7 @@
     "full_name": "Justin Herbert",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795191908621,
+    "news_updated": 1795281656746,
     "position": "QB",
     "practice_participation": null,
     "team": "LAC"
@@ -65064,7 +65064,7 @@
     "full_name": "Tee Higgins",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795124103041,
+    "news_updated": 1795323001269,
     "position": "WR",
     "practice_participation": null,
     "team": "CIN"
@@ -65109,16 +65109,16 @@
     "full_name": "J.K. Dobbins",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794970848002,
+    "news_updated": 1795318200817,
     "position": "RB",
     "practice_participation": null,
     "team": "DEN"
   },
   "6807": {
     "full_name": "Patrick Queen",
-    "injury_body_part": "Hand",
-    "injury_status": "Questionable",
-    "news_updated": 1795212950241,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795367106876,
     "position": "LB",
     "practice_participation": null,
     "team": "PIT"
@@ -65198,8 +65198,8 @@
   "6815": {
     "full_name": "Zack Baun",
     "injury_body_part": "Back",
-    "injury_status": "Out",
-    "news_updated": 1795220450970,
+    "injury_status": "IR",
+    "news_updated": 1795306859688,
     "position": "LB",
     "practice_participation": null,
     "team": "PHI"
@@ -65235,7 +65235,7 @@
     "full_name": "Michael Pittman Jr.",
     "injury_body_part": "Foot",
     "injury_status": "IR",
-    "news_updated": 1795271755748,
+    "news_updated": 1795293958094,
     "position": "WR",
     "practice_participation": null,
     "team": "PIT"
@@ -65314,8 +65314,8 @@
   },
   "6828": {
     "full_name": "AJ Dillon",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1794156919427,
     "position": "RB",
     "practice_participation": null,
@@ -65710,9 +65710,9 @@
   },
   "6872": {
     "full_name": "Kyle Dugger",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1795225551788,
+    "injury_body_part": "Quadriceps",
+    "injury_status": "Questionable",
+    "news_updated": 1795309260177,
     "position": "DB",
     "practice_participation": null,
     "team": "CIN"
@@ -65856,7 +65856,7 @@
     "full_name": "Antoine Winfield Jr.",
     "injury_body_part": "Ankle",
     "injury_status": "Out",
-    "news_updated": 1795218950918,
+    "news_updated": 1795367408692,
     "position": "DB",
     "practice_participation": null,
     "team": "TB"
@@ -65926,9 +65926,9 @@
   },
   "6896": {
     "full_name": "Amik Robertson",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1795279557971,
+    "injury_body_part": "Ankle",
+    "injury_status": "Questionable",
+    "news_updated": 1795307459638,
     "position": "CB",
     "practice_participation": null,
     "team": "WAS"
@@ -66126,7 +66126,7 @@
     "full_name": "Salvon Ahmed",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794887140676,
+    "news_updated": 1795306859701,
     "position": "RB",
     "practice_participation": null,
     "team": "CHI"
@@ -66484,8 +66484,8 @@
   },
   "6958": {
     "full_name": "Mike Danna",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1792041912972,
     "position": "DE",
     "practice_participation": null,
@@ -66979,8 +66979,8 @@
   },
   "7014": {
     "full_name": "Joe Bachie",
-    "injury_body_part": "Knee",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "news_updated": 1790122511040,
     "position": "LB",
     "practice_participation": null,
@@ -67278,7 +67278,7 @@
     "full_name": "Josiah Deguara",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795139104308,
+    "news_updated": 1795335004515,
     "position": "TE",
     "practice_participation": null,
     "team": "LAC"
@@ -67503,7 +67503,7 @@
     "full_name": "Jacob Bobenmoyer",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794733217623,
+    "news_updated": 1795335304038,
     "position": "LS",
     "practice_participation": null,
     "team": null
@@ -68563,8 +68563,8 @@
   },
   "7200": {
     "full_name": "Khalil Dorsey",
-    "injury_body_part": "Ankle",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "news_updated": 1763865325914,
     "position": "CB",
     "practice_participation": null,
@@ -70732,9 +70732,9 @@
   },
   "7440": {
     "full_name": "Aaron Brewer",
-    "injury_body_part": "Concussion",
-    "injury_status": "Questionable",
-    "news_updated": 1795224351581,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795368007094,
     "position": "OL",
     "practice_participation": null,
     "team": "MIA"
@@ -71418,7 +71418,7 @@
     "full_name": "Jaylen Waddle",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795212649805,
+    "news_updated": 1795319101526,
     "position": "WR",
     "practice_participation": null,
     "team": "DEN"
@@ -71524,9 +71524,9 @@
   },
   "7538": {
     "full_name": "Zach Wilson",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1794763529231,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
+    "news_updated": 1795366206778,
     "position": "QB",
     "practice_participation": null,
     "team": "NO"
@@ -71571,7 +71571,7 @@
     "full_name": "Travis Etienne Jr.",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795217450307,
+    "news_updated": 1795366506733,
     "position": "RB",
     "practice_participation": null,
     "team": "NO"
@@ -71697,7 +71697,7 @@
     "full_name": "Ihmir Smith-Marsette",
     "injury_body_part": "Undisclosed",
     "injury_status": "Questionable",
-    "news_updated": 1795221651253,
+    "news_updated": 1795335304055,
     "position": "WR",
     "practice_participation": null,
     "team": null
@@ -71931,7 +71931,7 @@
     "full_name": "Javonte Williams",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795195208895,
+    "news_updated": 1795289157336,
     "position": "RB",
     "practice_participation": null,
     "team": "DAL"
@@ -72066,7 +72066,7 @@
     "full_name": "Michael Carter",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794893742590,
+    "news_updated": 1795292457917,
     "position": "RB",
     "practice_participation": null,
     "team": "TEN"
@@ -72111,7 +72111,7 @@
     "full_name": "Dee Eskridge",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795047355760,
+    "news_updated": 1795334703794,
     "position": "WR",
     "practice_participation": null,
     "team": "MIN"
@@ -72363,7 +72363,7 @@
     "full_name": "Micah Parsons",
     "injury_body_part": "Knee - ACL",
     "injury_status": "PUP",
-    "news_updated": 1794861339601,
+    "news_updated": 1795359305608,
     "position": "LB",
     "practice_participation": null,
     "team": "GB"
@@ -72425,8 +72425,8 @@
   "7647": {
     "full_name": "Pete Werner",
     "injury_body_part": "Hamstring",
-    "injury_status": "Questionable",
-    "news_updated": 1795212350437,
+    "injury_status": "Out",
+    "news_updated": 1795366206759,
     "position": "LB",
     "practice_participation": null,
     "team": "NO"
@@ -72847,9 +72847,9 @@
   },
   "7694": {
     "full_name": "Tommy Tremble",
-    "injury_body_part": "Knee",
-    "injury_status": "Questionable",
-    "news_updated": 1795217750645,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795366206766,
     "position": "TE",
     "practice_participation": null,
     "team": "CAR"
@@ -72876,7 +72876,7 @@
     "full_name": "Brady Christensen",
     "injury_body_part": "Hamstring",
     "injury_status": "IR",
-    "news_updated": 1794685212156,
+    "news_updated": 1795309260221,
     "position": "T",
     "practice_participation": null,
     "team": "CAR"
@@ -72991,8 +72991,8 @@
   },
   "7708": {
     "full_name": "Marco Wilson",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1794900043523,
     "position": "CB",
     "practice_participation": null,
@@ -73711,9 +73711,9 @@
   },
   "7787": {
     "full_name": "Damar Hamlin",
-    "injury_body_part": "Toe",
-    "injury_status": "Questionable",
-    "news_updated": 1795213250272,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795368307053,
     "position": "DB",
     "practice_participation": null,
     "team": "BUF"
@@ -74037,7 +74037,7 @@
     "full_name": "Nate Hobbs",
     "injury_body_part": "Groin",
     "injury_status": "IR",
-    "news_updated": 1795222851356,
+    "news_updated": 1795307459623,
     "position": "CB",
     "practice_participation": null,
     "team": "SF"
@@ -74181,7 +74181,7 @@
     "full_name": "Evan McPherson",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794887741061,
+    "news_updated": 1795328701914,
     "position": "K",
     "practice_participation": null,
     "team": "CIN"
@@ -75070,8 +75070,8 @@
   },
   "7936": {
     "full_name": "Amen Ogbongbemiga",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "news_updated": 1786433737043,
     "position": "LB",
     "practice_participation": null,
@@ -76674,10 +76674,10 @@
     "full_name": "Pierre Strong Jr.",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795142704208,
+    "news_updated": 1795306259481,
     "position": "RB",
     "practice_participation": null,
-    "team": null
+    "team": "GB"
   },
   "8117": {
     "full_name": "Jalen Tolbert",
@@ -76809,7 +76809,7 @@
     "full_name": "Isaiah Likely",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795215051653,
+    "news_updated": 1795290657591,
     "position": "TE",
     "practice_participation": null,
     "team": "NYG"
@@ -76834,9 +76834,9 @@
   },
   "8135": {
     "full_name": "Treylon Burks",
-    "injury_body_part": "Foot",
-    "injury_status": "Questionable",
-    "news_updated": 1795279858448,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795334104167,
     "position": "WR",
     "practice_participation": null,
     "team": "WAS"
@@ -76845,7 +76845,7 @@
     "full_name": "Rachaad White",
     "injury_body_part": "Heel",
     "injury_status": "Questionable",
-    "news_updated": 1795279557960,
+    "news_updated": 1795334104182,
     "position": "RB",
     "practice_participation": null,
     "team": "WAS"
@@ -76854,7 +76854,7 @@
     "full_name": "George Pickens",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795013152201,
+    "news_updated": 1795287657521,
     "position": "WR",
     "practice_participation": null,
     "team": "DAL"
@@ -76890,7 +76890,7 @@
     "full_name": "Alec Pierce",
     "injury_body_part": "Heel",
     "injury_status": "IR",
-    "news_updated": 1794420327664,
+    "news_updated": 1795355106431,
     "position": "WR",
     "practice_participation": null,
     "team": "IND"
@@ -76969,9 +76969,9 @@
   },
   "8150": {
     "full_name": "Kyren Williams",
-    "injury_body_part": null,
-    "injury_status": null,
-    "news_updated": 1794812134954,
+    "injury_body_part": "Toe",
+    "injury_status": "Questionable",
+    "news_updated": 1795301760416,
     "position": "RB",
     "practice_participation": null,
     "team": "LAR"
@@ -77016,7 +77016,7 @@
     "full_name": "Breece Hall",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795278656346,
+    "news_updated": 1795363506238,
     "position": "RB",
     "practice_participation": null,
     "team": "NYJ"
@@ -77106,7 +77106,7 @@
     "full_name": "Skyy Moore",
     "injury_body_part": "Ankle",
     "injury_status": "Questionable",
-    "news_updated": 1794900043496,
+    "news_updated": 1795307759625,
     "position": "WR",
     "practice_participation": null,
     "team": "GB"
@@ -77349,7 +77349,7 @@
     "full_name": "Jashaun Corbin",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1793845840081,
+    "news_updated": 1795306259471,
     "position": "RB",
     "practice_participation": null,
     "team": "DAL"
@@ -77907,7 +77907,7 @@
     "full_name": "Cameron Dicker",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794966948142,
+    "news_updated": 1795283156907,
     "position": "K",
     "practice_participation": null,
     "team": "LAC"
@@ -77997,7 +77997,7 @@
     "full_name": "Jordan Davis",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794587730765,
+    "news_updated": 1795356906083,
     "position": "DL",
     "practice_participation": null,
     "team": "JAX"
@@ -78024,7 +78024,7 @@
     "full_name": "Derion Kendrick",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794696314478,
+    "news_updated": 1795290058976,
     "position": "DB",
     "practice_participation": null,
     "team": "DAL"
@@ -78159,7 +78159,7 @@
     "full_name": "Dax Hill",
     "injury_body_part": "Illness",
     "injury_status": "Questionable",
-    "news_updated": 1795136405844,
+    "news_updated": 1795306859701,
     "position": "DB",
     "practice_participation": null,
     "team": "CIN"
@@ -78510,7 +78510,7 @@
     "full_name": "Brandon Smith",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1727912450565,
+    "news_updated": 1795335004497,
     "position": "LB",
     "practice_participation": null,
     "team": null
@@ -78726,7 +78726,7 @@
     "full_name": "Kerby Joseph",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795049155625,
+    "news_updated": 1795365607922,
     "position": "DB",
     "practice_participation": null,
     "team": "DET"
@@ -79823,8 +79823,8 @@
   "8476": {
     "full_name": "DaRon Bland",
     "injury_body_part": "Ankle",
-    "injury_status": "Out",
-    "news_updated": 1795208761659,
+    "injury_status": "IR",
+    "news_updated": 1795305959358,
     "position": "DB",
     "practice_participation": null,
     "team": "DAL"
@@ -80057,8 +80057,8 @@
   "8502": {
     "full_name": "Cade Mays",
     "injury_body_part": "Ankle",
-    "injury_status": "Out",
-    "news_updated": 1794965747930,
+    "injury_status": "IR",
+    "news_updated": 1795309260197,
     "position": "OL",
     "practice_participation": null,
     "team": "DET"
@@ -81379,9 +81379,9 @@
   },
   "8666": {
     "full_name": "Darrell Baker Jr.",
-    "injury_body_part": "Undisclosed",
-    "injury_status": "PUP",
-    "news_updated": 1795054256389,
+    "injury_body_part": null,
+    "injury_status": null,
+    "news_updated": 1795367707079,
     "position": "CB",
     "practice_participation": null,
     "team": "MIA"
@@ -82104,7 +82104,7 @@
     "news_updated": 1793147408004,
     "position": "G",
     "practice_participation": null,
-    "team": null
+    "team": "LAR"
   },
   "8751": {
     "full_name": "Dylan Parham",
@@ -83017,9 +83017,9 @@
   },
   "8860": {
     "full_name": "Tony Adams",
-    "injury_body_part": "Concussion",
+    "injury_body_part": "Illness",
     "injury_status": "Questionable",
-    "news_updated": 1795215050300,
+    "news_updated": 1795367106873,
     "position": "DB",
     "practice_participation": null,
     "team": "TEN"
@@ -83820,7 +83820,7 @@
     "full_name": "Chase Brown",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795189208260,
+    "news_updated": 1795324201261,
     "position": "RB",
     "practice_participation": null,
     "team": "CIN"
@@ -83946,7 +83946,7 @@
     "full_name": "Luke Musgrave",
     "injury_body_part": "Undisclosed",
     "injury_status": "PUP",
-    "news_updated": 1792722315610,
+    "news_updated": 1795356605855,
     "position": "TE",
     "practice_participation": null,
     "team": "GB"
@@ -83981,8 +83981,8 @@
   "9486": {
     "full_name": "Dontayvion Wicks",
     "injury_body_part": "Ankle",
-    "injury_status": "Out",
-    "news_updated": 1795213549935,
+    "injury_status": "IR",
+    "news_updated": 1795297558351,
     "position": "WR",
     "practice_participation": null,
     "team": "PHI"
@@ -84045,7 +84045,7 @@
     "full_name": "Puka Nacua",
     "injury_body_part": "Knee - MCL",
     "injury_status": "IR",
-    "news_updated": 1795270555550,
+    "news_updated": 1795352104788,
     "position": "WR",
     "practice_participation": null,
     "team": "LAR"
@@ -84188,8 +84188,8 @@
   "9508": {
     "full_name": "Tyjae Spears",
     "injury_body_part": "Knee",
-    "injury_status": "Questionable",
-    "news_updated": 1795210851535,
+    "injury_status": "IR",
+    "news_updated": 1795293358322,
     "position": "RB",
     "practice_participation": null,
     "team": "TEN"
@@ -84216,7 +84216,7 @@
     "full_name": "Keaton Mitchell",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1795191308502,
+    "news_updated": 1795282256716,
     "position": "RB",
     "practice_participation": null,
     "team": "LAC"
@@ -84309,7 +84309,7 @@
     "news_updated": 1794733817705,
     "position": "LS",
     "practice_participation": null,
-    "team": "LAR"
+    "team": null
   },
   "967": {
     "full_name": "Robert Quinn",
@@ -84360,7 +84360,7 @@
     "full_name": "Quentin Johnston",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794919545096,
+    "news_updated": 1795282856899,
     "position": "WR",
     "practice_participation": null,
     "team": "LAC"
@@ -84486,7 +84486,7 @@
     "full_name": "Zay Flowers",
     "injury_body_part": null,
     "injury_status": null,
-    "news_updated": 1794921045092,
+    "news_updated": 1795299658585,
     "position": "WR",
     "practice_participation": null,
     "team": "BAL"
